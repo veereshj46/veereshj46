@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm veeresh</h1>
+<h1 align="center">Hi 👋, I'm Veeresh</h1>
 <h3 align="center">A passionate Python Beginner Programmer</h3>
 
 - 🔭 I’m currently working on **python mini projects**
